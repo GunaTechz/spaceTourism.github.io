@@ -4,15 +4,21 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Status](#status)
-  - [Screenshots](#screenshots)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Frontend Mentor - Space tourism website solution](#frontend-mentor---space-tourism-website-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Status](#status)
+    - [Screenshots](#screenshots)
+      - [Home](#home)
+      - [Destination](#destination)
+      - [Crew](#crew)
+      - [Technology](#technology)
+      - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+  - [Author](#author)
 
 ## Overview
 
@@ -44,7 +50,7 @@ Done!
 
 #### Links
 
-- Solution URL: [Space Tourism](https://the-future-space-tourism.netlify.app/)
+- Solution URL: [Space Tourism]()
 
 ## My process
 
@@ -65,5 +71,5 @@ Using some Jquery functions together with plugins like Owl Carousel, as well as 
 
 ## Author
 
-- Frontend Mentor - [@gabrielsoaresevt](https://www.frontendmentor.io/profile/gabrielsoaresevt)
-- LinkedIn - [@gabrielsoaresevangelista](https://www.linkedin.com/in/gabriel-soares-evangelista)
+- Frontend Mentor - [@ragulpalanisamy](https://www.frontendmentor.io/profile/ragulpalanisamy)
+- LinkedIn - [@ragul-palanisamy](https://www.linkedin.com/in/ragul-palanisamy-139346194/)
